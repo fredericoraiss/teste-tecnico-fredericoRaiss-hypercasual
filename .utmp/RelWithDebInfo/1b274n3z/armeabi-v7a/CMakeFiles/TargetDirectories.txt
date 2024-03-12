@@ -1,0 +1,5 @@
+E:/Desenvolvimento de Jogos/Unity/67Bits/Teste Tecnico - 67 Bits/.utmp/RelWithDebInfo/1b274n3z/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Desenvolvimento de Jogos/Unity/67Bits/Teste Tecnico - 67 Bits/.utmp/RelWithDebInfo/1b274n3z/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/Desenvolvimento de Jogos/Unity/67Bits/Teste Tecnico - 67 Bits/.utmp/RelWithDebInfo/1b274n3z/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+E:/Desenvolvimento de Jogos/Unity/67Bits/Teste Tecnico - 67 Bits/.utmp/RelWithDebInfo/1b274n3z/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+E:/Desenvolvimento de Jogos/Unity/67Bits/Teste Tecnico - 67 Bits/.utmp/RelWithDebInfo/1b274n3z/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
